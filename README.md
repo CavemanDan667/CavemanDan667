@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dan</h1>
 <h3 align="center">Career changer</h3>
 
-- 🌱 I’m currently learning **Data Engineering with NorthCoders**
+- 🌱 I’m currently a **Trainee Data Engineer with NorthCoders**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
