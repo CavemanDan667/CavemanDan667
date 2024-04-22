@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dan</h1>
 <h3 align="center">Career changer</h3>
 
-- 🌱 I have recently completed a 13-week Data Engineering Bootcamp with **NorthCoders** and am now looking for work.
+- I am an Environmental Data Analyst at **Beyondly** (since February 2024).
+- I completed a 13-week Data Engineering Bootcamp with **NorthCoders** between August and November 2023.
+- Former teacher of mathematics (18 years of experience).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
